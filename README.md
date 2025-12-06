@@ -189,7 +189,7 @@ mutation {
 
 ---
 
-## 🧩 Tecnologías principales
+## **8. 🧩 Tecnologías principales
 
 | Tecnología | Uso |
 |-----------|-----|
@@ -199,7 +199,7 @@ mutation {
 
 ---
 
-## 📂 Estructura del Proyecto
+## **9. 📂 Estructura del Proyecto
 
 ```
 backend/
@@ -255,20 +255,13 @@ Crear archivo `.env`:
 ```
 DJANGO_BD_URL=postgres://postgres:1234@127.0.0.1:5432/pruebalqnstarwars
 ```
-
-### 5. Migrar
-
-```bash
-python manage.py migrate
-```
-
-### 6. Ejecutar servidor
+### 10. Ejecutar servidor
 
 ```bash
 python manage.py runserver
 ```
 
-### 7. Abrir GraphiQL
+### 11. Abrir GraphiQL
 
 ```
 http://127.0.0.1:8000/graphql
