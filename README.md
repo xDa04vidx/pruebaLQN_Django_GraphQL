@@ -189,7 +189,7 @@ mutation {
 
 ---
 
-## **8. 🧩 Tecnologías principales
+## **8. 🧩 Tecnologías principales**
 
 | Tecnología | Uso |
 |-----------|-----|
@@ -199,7 +199,7 @@ mutation {
 
 ---
 
-## **9. 📂 Estructura del Proyecto
+## **9. 📂 Estructura del Proyecto**
 
 ```
 backend/
