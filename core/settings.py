@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'starwars',
-    'graphene_django'
+    'graphene_django',
 ]
 
 MIDDLEWARE = [
